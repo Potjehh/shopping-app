@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: antiquewhite;
+    font-size: 50px;
+}
+ul.todoList {
+  list-style-type: none;
+}
+
+.removeButton {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background: red;
+  padding: 10px;
+}
+
+input[type="text"]{
+  font-size:27px;
+}
+.addButton {
+  font-size: 20px;
+  background-color: aliceblue;
+  margin-top: 5px;
+}
